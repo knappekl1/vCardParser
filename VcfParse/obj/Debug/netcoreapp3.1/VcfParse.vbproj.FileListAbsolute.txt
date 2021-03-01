@@ -1,0 +1,13 @@
+C:\Users\libor\source\repos\VcfParse\VcfParse\bin\Debug\netcoreapp3.1\VcfParse.exe
+C:\Users\libor\source\repos\VcfParse\VcfParse\bin\Debug\netcoreapp3.1\VcfParse.deps.json
+C:\Users\libor\source\repos\VcfParse\VcfParse\bin\Debug\netcoreapp3.1\VcfParse.runtimeconfig.json
+C:\Users\libor\source\repos\VcfParse\VcfParse\bin\Debug\netcoreapp3.1\VcfParse.runtimeconfig.dev.json
+C:\Users\libor\source\repos\VcfParse\VcfParse\bin\Debug\netcoreapp3.1\VcfParse.dll
+C:\Users\libor\source\repos\VcfParse\VcfParse\bin\Debug\netcoreapp3.1\VcfParse.pdb
+C:\Users\libor\source\repos\VcfParse\VcfParse\obj\Debug\netcoreapp3.1\VcfParse.vbprojAssemblyReference.cache
+C:\Users\libor\source\repos\VcfParse\VcfParse\obj\Debug\netcoreapp3.1\VcfParse.AssemblyInfoInputs.cache
+C:\Users\libor\source\repos\VcfParse\VcfParse\obj\Debug\netcoreapp3.1\VcfParse.AssemblyInfo.vb
+C:\Users\libor\source\repos\VcfParse\VcfParse\obj\Debug\netcoreapp3.1\VcfParse.vbproj.CoreCompileInputs.cache
+C:\Users\libor\source\repos\VcfParse\VcfParse\obj\Debug\netcoreapp3.1\VcfParse.dll
+C:\Users\libor\source\repos\VcfParse\VcfParse\obj\Debug\netcoreapp3.1\VcfParse.pdb
+C:\Users\libor\source\repos\VcfParse\VcfParse\obj\Debug\netcoreapp3.1\VcfParse.genruntimeconfig.cache
